@@ -1,0 +1,11 @@
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\bin\Debug\DataMatrixCode.exe.config
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\bin\Debug\DataMatrixCode.exe
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\bin\Debug\DataMatrixCode.pdb
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\bin\Debug\DataMatrix.net.dll
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.csprojResolveAssemblyReference.cache
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.Form1.resources
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.Properties.Resources.resources
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.csproj.GenerateResource.Cache
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.csproj.CoreCompileInputs.cache
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.exe
+C:\Users\Papryk\source\repos\DataMatrixCode\DataMatrixCode\obj\Debug\DataMatrixCode.pdb
